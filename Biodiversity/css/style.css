@@ -1,0 +1,129 @@
+.navImage{
+    border-radius: 50%;
+}
+.navText{
+    font-size: 30px;
+}
+@media screen and (min-width: 320px){
+    .firstdiv{
+
+        background-image: url("https://st4.depositphotos.com/2627021/24418/i/450/depositphotos_244188074-stock-photo-hands-planting-seedlings-ground.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 600px;
+     }
+}
+
+.homefirstText{
+    padding-top: 70px;
+    font-weight: 900;
+    font-size: 40px;
+}
+.vision{
+    margin-top: 60px;
+}
+.visionImg{
+    height:300px;
+    width: 300px;
+}
+.mission{
+    margin-top: 60px;
+}
+.missionImg{
+    height:300px;
+    width: 300px;
+    column-gap: 40px;
+}
+.news{
+    margin-top: 50px;
+}
+.newsText{
+    font-size: 50px;
+}
+.firstcardImg{
+    height: 250px;
+    width: 250px;
+}
+.secondcardImg{
+    height: 250px;
+    width: 250px;
+}
+.thirdcardImg{
+    height: 250px;
+    width: 250px;
+}
+.goalDiv{
+    margin-top: 100px;
+}
+.goalHead {
+    font-size: 40px;
+}
+.goals{
+   column-count: 3;
+   column-gap: 30px;
+   margin-top: 60px;
+}
+footer{
+    margin-top: 30px;
+    height: 300px;
+}
+@media screen and (min-width:320px){
+    .footerLink{
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 50PX;
+    }
+}
+
+i:hover{
+    background-color: white;
+}
+
+
+.bio{
+    background-image: url("../assets/BIOIMG.webp");
+    height: 500px;
+    background-size: cover;
+}
+.bioHead{
+    text-align: center;
+}
+
+.forest{
+    background-image: url("https://media.assettype.com/freepressjournal/2023-03/ef8d717a-d499-4ea9-9c36-108f4818fce4/forest_2_march_19.jpg");
+    height: 500px;
+    background-size: cover;
+}
+.forestHead{
+    text-align: center;
+    color:antiquewhite;
+    padding-top: 200px;
+    font-size: 60px;
+
+}
+.mountain{
+    background-image: url("https://geographical.co.uk/wp-content/uploads/Photographing-mountains-in-spring-1200x800.jpg");
+    height: 500px;
+    background-size: cover;
+}
+.mountainHead{
+    text-align: center;
+    color:antiquewhite;
+    padding-top: 200px;
+    font-size: 60px;
+
+}
+.desertation{
+    background-image: url("https://www.ncr-iran.org/en/wp-content/uploads/2021/11/iran-environment-irgc-desertation-696x299.jpg");
+    height: 500px;
+    background-size: cover;
+}
+.desertationHead{
+    text-align: center;
+    color:antiquewhite;
+    padding-top: 200px;
+    font-size: 60px;
+
+}
+
+
